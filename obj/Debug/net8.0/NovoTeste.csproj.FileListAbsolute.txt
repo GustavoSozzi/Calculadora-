@@ -1,0 +1,14 @@
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\bin\Debug\net8.0\NovoTeste.exe
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\bin\Debug\net8.0\NovoTeste.deps.json
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\bin\Debug\net8.0\NovoTeste.runtimeconfig.json
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\bin\Debug\net8.0\NovoTeste.dll
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\bin\Debug\net8.0\NovoTeste.pdb
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\obj\Debug\net8.0\NovoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\obj\Debug\net8.0\NovoTeste.AssemblyInfoInputs.cache
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\obj\Debug\net8.0\NovoTeste.AssemblyInfo.cs
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\obj\Debug\net8.0\NovoTeste.csproj.CoreCompileInputs.cache
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\obj\Debug\net8.0\NovoTeste.dll
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\obj\Debug\net8.0\refint\NovoTeste.dll
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\obj\Debug\net8.0\NovoTeste.pdb
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\obj\Debug\net8.0\NovoTeste.genruntimeconfig.cache
+C:\Users\BomGu\OneDrive\Documentos\Desenvolvimento\C#\teste\NovoTeste\obj\Debug\net8.0\ref\NovoTeste.dll
